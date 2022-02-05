@@ -1,0 +1,3 @@
+﻿  Buscaminas.cpp
+F:\VisualStudioProyects\Buscaminas\Buscaminas\Buscaminas.cpp(174,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Buscaminas.vcxproj -> F:\VisualStudioProyects\Buscaminas\x64\Debug\Buscaminas.exe
